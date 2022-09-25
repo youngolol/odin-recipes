@@ -1,0 +1,22 @@
+* {
+    font-family: Arial, sans-serif;
+}
+
+#purp {
+    color: tan;
+    background-color: purple;
+}
+
+#soup {
+    color: red;
+}
+
+#yell {
+    color: yellow;
+    background-color: red;
+}
+
+.photos {
+    width: 500px;
+    height: auto;
+}
